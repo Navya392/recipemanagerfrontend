@@ -1,0 +1,21 @@
+{
+	"geolocation": {
+		"data": {
+			"city": "Broad Brook",
+			"country": {
+				"code": "US",
+				"name": "United States"
+			},
+			"subdivision": {
+				"code": "CT",
+				"name": "Connecticut"
+			},
+			"timezone": "America/New_York",
+			"latitude": 41.9039,
+			"longitude": -72.5468,
+			"postalCode": "06088"
+		},
+		"timestamp": 1732847478197
+	},
+	"siteId": "1aded9d9-0ee9-4b06-a6a5-acba7a6181a3"
+}
